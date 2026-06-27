@@ -12,12 +12,6 @@ An AI-powered coding interview assistant that helps users understand LeetCode pr
 6. **Dry Run** — step-by-step variable trace table for your code on a sample input.
 7. **SQL Database (SQLite)** — `users`, `questions`, `code_reviews` tables. History + ⭐ Favorites drawer in the UI.
 
-## 📷 Application Preview
-The screenshot below showcases the main interface of the AI LeetCode Assistant, including problem analysis, approach generation, complexity analysis, code review, dry run, and history.
-
-![AI LeetCode Assistant](screenshots/app.png)
-![AI LeetCode Assistant](screenshots/response.png)
-
 ## 📁 Project Structure
 
 leetcode_agent/
