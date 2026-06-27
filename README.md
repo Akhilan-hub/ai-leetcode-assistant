@@ -1,6 +1,6 @@
-# 🧠 LeetHelper — AI LeetCode Helper Agent
+# 🧠🤖 AI LeetCode Assistant
 
-Full-stack DSA practice assistant: Flask + SQLite + Gemini API + HTML/CSS/JS.
+An AI-powered coding interview assistant that helps users understand LeetCode problems, generate optimized approaches, review code, perform dry runs, analyze complexity, and track learning history.
 
 ## ✅ Features
 
@@ -12,9 +12,14 @@ Full-stack DSA practice assistant: Flask + SQLite + Gemini API + HTML/CSS/JS.
 6. **Dry Run** — step-by-step variable trace table for your code on a sample input.
 7. **SQL Database (SQLite)** — `users`, `questions`, `code_reviews` tables. History + ⭐ Favorites drawer in the UI.
 
+## 📷 Application Preview
+The screenshot below showcases the main interface of the AI LeetCode Assistant, including problem analysis, approach generation, complexity analysis, code review, dry run, and history.
+
+![AI LeetCode Assistant](screenshots/app.png)
+![AI LeetCode Assistant](screenshots/response.png)
+
 ## 📁 Project Structure
 
-```
 leetcode_agent/
 ├── app.py              # Flask routes (all 6 features + history/favorites API)
 ├── ai_engine.py         # Gemini API calls + prompt templates
@@ -27,7 +32,15 @@ leetcode_agent/
 └── static/
     ├── css/style.css     # dark code-editor theme
     └── js/main.js        # tab logic, API calls, markdown renderer, history drawer
-```
+
+
+## 🛠️ Tech Stack
+
+- Backend: Flask (Python)
+- Frontend: HTML, CSS, JavaScript
+- Database: SQLite
+- AI Model: Google Gemini API
+- Version Control: Git & GitHub
 
 ## 🚀 Setup
 
