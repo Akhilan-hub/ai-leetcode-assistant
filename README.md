@@ -1,8 +1,8 @@
-# 🧠 ai-leetcode-assistant
+# 🧠🤖 AI LeetCode Assistant
 
 An AI-powered coding interview assistant that helps users understand LeetCode problems, generate optimized approaches, review code, perform dry runs, analyze complexity, and track learning history.
 
-## ✅ Features
+##  Features
 
 1. **Question Understanding** — paste a problem, get summary, input/output, example walkthrough, key observation, real-world analogy, optional Tamil explanation.
 2. **Approach Section** — Brute Force → Better → Optimal, each with steps + complexity.
@@ -10,7 +10,7 @@ An AI-powered coding interview assistant that helps users understand LeetCode pr
 4. **Hint Mode** — 3 progressive hints, no spoiler code.
 5. **Code Review** — paste your code → syntax errors, logic mistakes, why it's wrong, corrected code, explanation.
 6. **Dry Run** — step-by-step variable trace table for your code on a sample input.
-7. **SQL Database (SQLite)** — `users`, `questions`, `code_reviews` tables. History + ⭐ Favorites drawer in the UI.
+7. **SQL Database (SQLite)** — `users`, `questions`, `code_reviews` tables. History +  Favorites drawer in the UI.
 
 ## 📁 Project Structure
 
